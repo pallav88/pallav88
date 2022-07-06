@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pallav88
+- 👋 Hi, I’m Pallav
 - 👀 I’m interested in Python & Data Science
 - 🌱 I’m currently learning more about data science
 - 💞️ I’m looking to collaborate on Data Science projects to help boost company revenue & reduce losses
